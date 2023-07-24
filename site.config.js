@@ -1,18 +1,18 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "tank",
+    name: "TANK",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI developer",
     bio: "I'm passionate about how AI can help improve our lives.",
     email: "hurri.tank@gmail.com",
-    linkedin: "https://www.linkedin.com/in/07091994-tank/",
+    linkedin: "07091994-tank",
     github: "https://github.com/tuananhnguyenkim",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `TANK-blogs`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
