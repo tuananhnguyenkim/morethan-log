@@ -13,13 +13,13 @@ const CONFIG = {
   projects: [
     {
       name: `TANK-blogs`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/tuananhnguyenkim/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "TANK-blogs",
+    description: "welcome to TANK blogs!",
   },
 
   // CONFIG configration (required)
